@@ -8,7 +8,7 @@ setup(
   description = 'Jaxformer',
   author = 'Erik Nijkamp',
   author_email = 'erik.nijkamp@gmail.com',
-  url = 'https://github.com/salesforce/jaxformer',
+  url = 'https://github.com/reneekvs/jaxformer',
   keywords = [
     'artificial intelligence',
     'deep learning',
